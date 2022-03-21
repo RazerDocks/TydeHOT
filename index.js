@@ -63,4 +63,4 @@ Client.on("messageCreate", message => {
 
 
 
-Client.login("OTU1Mzc5NDUzMTM0MDA4MzQw.Yjg0cw.rgOhhpZHx5cUU2DPA3OLWiCR4rk");
+Client.login("OTU1Mzc5NDUzMTM0MDA4MzQw.Yjg0cw.w47UZ7gxcj3ycLEXdnmYDTDEt6E");
